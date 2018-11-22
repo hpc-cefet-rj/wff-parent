@@ -1,3 +1,5 @@
 .settings
 .svn
+target/
+xxxsrc/main/kotlin/org/yanex/takenoko
 
